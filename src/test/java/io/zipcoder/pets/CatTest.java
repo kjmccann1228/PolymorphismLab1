@@ -5,12 +5,13 @@
 ///**
 // * Created by zacharywasserman on 9/26/16.
 // */
-//public class BoneVultureTest {
+//public class CatTest {
 //    @Test
 //    public void speakTest(){
-//        BoneVulture pet = new BoneVulture("Butterbean");
-//        String expected = "BLOOD FOR THE BLOOD GOD!";
+//        CatTest pet = new CatTest("Biscuit");
+//        String expected = "Meow";
 //        String actual = pet.speak();
 //        assertEquals(expected, actual);
+//
 //    }
 //}
